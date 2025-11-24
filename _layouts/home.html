@@ -10,14 +10,19 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
-      <h1>
+      
+    <font size = "10">
         {{ site.title }}
-      </h1>
+    </font>
     {% endif %}
+
+    <br>
+
     {% if site.title %}
-      <h2>
+      
+    <font size = "6">
         {{ site.description }}
-      </h2>
+    </font>  
     {% endif %}
   </header>
 {% endif %}
@@ -29,7 +34,7 @@ layout: default
 <img src = "assets/me/ovalpic.png" width = 50%>
 
 
-  <p style="text-align:justify; text-indent: 30px">
+  <p style="text-align:center; text-indent: 30px">
   Thank you so much for visiting my site! I'm an innovative and inspiring teacher, with special expertise in literature, creative writing, and classical music. I offer one-on-one and small group teaching to all ages.
 
   </p>
@@ -37,12 +42,7 @@ layout: default
 
 
 
-  <p style="text-align:justify; text-indent: 30px">
-As a tutor I specialise in English language and literature, creative writing, and music -- piano and theory. However, I have an unusually diverse range of interests and expertise beyond this! I'm driven by compassion and curiosity, and consider myself a multipotentialite. I'm able to synthesise my many areas of knowledge and draw on them imaginatively to connect with students. 
 
-  </p>
-
-</p>
   
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}

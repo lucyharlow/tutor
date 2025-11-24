@@ -99,7 +99,7 @@ code.highlighter-rouge { background: white; font-family: courier, monospace; fon
   /* IE9 Compat Modes */
 src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.eot?#iefix") format("embedded-opentype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff2") format("woff2"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff") format("woff"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.ttf") format("truetype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond") format("svg");
   /* Legacy iOS */ }
-body { background: #fffee0; color: #0b0404; font-family: "EB Garamond", Garamond, "Times New Roman", serif; font-size: 1.3125em; line-height: 1.5; }
+body { background: #ffffff; color: #0b0404; font-family: "EB Garamond", Garamond, "Times New Roman", serif; font-size: 1.3125em; line-height: 1.5; }
 
 h1 { font-size: 3em; margin: .5em auto; }
 
@@ -149,8 +149,8 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 .site-credits { margin: 0 auto 2em; padding: 0 2em; text-align: center; }
 
-.skip-navigation { background: #fffee0; border: 1px dashed transparent; display: block; font-size: .875em; font-weight: 700; margin-top: -2.625rem; padding: .5rem; text-align: center; text-decoration: none; text-transform: uppercase; }
-.skip-navigation:hover, .skip-navigation:focus { background: #fffeed; border-color: #0b0404; margin-top: 0; }
+.skip-navigation { background: #ffffff; border: 1px dashed transparent; display: block; font-size: .875em; font-weight: 700; margin-top: -2.625rem; padding: .5rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.skip-navigation:hover, .skip-navigation:focus { background: white; border-color: #0b0404; margin-top: 0; }
 
 .site-masthead { box-sizing: border-box; position: relative; text-align: center; }
 
@@ -193,7 +193,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 .post-pagination a { text-decoration: none; text-transform: uppercase; transition: opacity .125s ease-in-out; }
 .post-pagination a:hover, .post-pagination a:focus { opacity: 1; }
 
-.post { background: white; margin: 2em auto; max-width: 60rem; padding: 2em 0; box-shadow: 12px 18px 24px rgba(224, 217, 0, 0.1); }
+.post { background: white; margin: 2em auto; max-width: 60rem; padding: 2em 0; box-shadow: 12px 18px 24px rgba(128, 128, 128, 0.1); }
 
 .post > * { margin-left: auto; margin-right: auto; max-width: 36rem; padding: 0 1em; }
 
@@ -216,7 +216,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 .back-link { display: inline-block; font-size: .75em; padding: 1em; text-decoration: none; text-transform: uppercase; }
 
 .footnote { border: 1px solid #64644B; border-radius: 1em; color: #0b0404; display: inline; font-size: .75em; font-weight: 700; padding: 0 .75em; text-decoration: none; margin: 0 .25em; }
-.footnote:hover, .footnote:focus { background: #fffee0; border-color: #fffee0; }
+.footnote:hover, .footnote:focus { background: #ffffff; border-color: #ffffff; }
 
 .footnotes::before { content: ''; border: 0; display: block; width: 152px; height: 12px; margin: .5em auto 0; background: url(http://localhost:4000/assets/images/divider.svg) no-repeat top center; margin: 4em auto; }
 

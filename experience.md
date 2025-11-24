@@ -4,7 +4,7 @@ title: Teaching Experience
 permalink: /experience/
 ---
 
-I have many years' teaching experience, specialising in English language and literature, creative writing, and music. However, I have an unusually diverse range of interests and expertise beyond this! I'm driven by compassion and curiosity, and consider myself a multipotentialite. I'm able to synthesise my many areas of knowledge and draw on them imaginatively to connect with students. 
+I have many years' teaching experience, specialising in English language and literature, creative writing, and music. However, I have an unusually diverse range of interests and expertise beyond these areas! I'm able to synthesise my many fields of knowledge and draw on them imaginatively to connect with students. 
 
 
 

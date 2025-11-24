@@ -5,7 +5,6 @@ permalink: /academic/
 ---
 
 
-My education has been international - I studied at secondary schools in England and Hong Kong before attending universities in the UK and the USA.  
 
 
 I read English as an undergraduate at the **University of St Andrews**, and received a first-class MA (Hons) in 2009. I also held piano and organ scholarships, enabling me to continue my musical studies, and received summer funding from the Undergraduate Research Internship Programme to carry out advanced research. 

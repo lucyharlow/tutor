@@ -12,3 +12,6 @@ I continued my studies at the **University of York**, achieving a high distincti
 
 I then moved to the USA to enrol in the **English** Ph.D. program at **Princeton University**, supported by a graduate fellowship and a semester of funding from the Folger Shakespeare Library. I completed my dissertation and was awarded my doctorate in 2019.
 
+<img src = "/assets/divider.svg">
+
+In addition to my degrees, I have a postgraduate certificate in **Psychology** from **Oxford Brookes University**, and I'm a mental health first aider. I have a clear DBS check from November 2025.

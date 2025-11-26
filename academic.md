@@ -14,4 +14,4 @@ I then moved to the USA to enrol in the **English** Ph.D. program at **Princeton
 
 <img src = "/assets/divider.svg">
 
-In addition to my degrees, I have a postgraduate certificate in **Psychology** from **Oxford Brookes University**, and I'm a mental health first aider. I have a clear DBS check from November 2025.
+In addition to my degree level study, I completed the six-month **novel-writing course** with **Curtis Brown Creative**, and wrote my first novel, a work of literary fiction about a violinist going through a mental health crisis. I have a postgraduate certificate in **Psychology** from **Oxford Brookes University**, and I'm a mental health first aider. I have a clear DBS check from November 2025.

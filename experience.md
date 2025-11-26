@@ -19,7 +19,9 @@ After completing my doctorate I was a visiting lecturer at Roehampton University
 
 ### Music
 
-I'm an accomplished musician, having worked professionally for many years as a pianist, organist, and singer. I also play the violin and guitar. As a music teacher, I have successfully prepared students aged 8-18 for ABRSM exams in music theory and piano performance. I have many years' experience directing choirs for children and adults, and teaching the fundamentals of singing and theory. 
+I'm an accomplished musician, having worked professionally for many years as a pianist, organist, and singer. I also play the violin and guitar. As a music teacher, I have successfully prepared students aged 8-18 for ABRSM exams in music theory and piano performance. I have spent a lot of time mentoring talented young instrumentalists through my work as a piano accompanist for various organisations.
+
+I have many years' experience directing choirs for children and adults, and teaching the fundamentals of singing and theory. 
 
 
 ### Other
